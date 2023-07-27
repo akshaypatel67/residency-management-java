@@ -50,7 +50,7 @@ public class SendMailPDF {
 
             protected PasswordAuthentication getPasswordAuthentication() {
 
-                return new PasswordAuthentication("teamgeoplanner@gmail.com", "Gp385261");
+                return new PasswordAuthentication("email", "password");
 
             }
 
